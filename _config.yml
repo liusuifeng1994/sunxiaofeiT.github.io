@@ -15,10 +15,10 @@ links:
     url:          /
     external:     false
   - name:         前端
-    url:          /book
+    url:          /front
     external:     false
   - name:         视频
-    url:          /road
+    url:          /video
     external:     false
   - name:         归档
     url:          /archives
