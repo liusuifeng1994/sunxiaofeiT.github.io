@@ -2,7 +2,7 @@
 layout: blog
 title: 关于此博客
 description: ""
-date: 2017-10-31
+date: 2017-10-31 10:00:00
 tags: 
 - sunxiaofeiT
 - 简述
@@ -33,6 +33,8 @@ redirect_from:
 
 # 说明
 
-* [Jekyll 模板来源](http://jekyllthemes.org/)  
-* [github 地址](https://github.com/Liberxue/liberxue.github.io)  
+* [Jekyll 模板来源](http://jekyllthemes.org/)
+  
+* [github 地址](https://github.com/Liberxue/liberxue.github.io)    
+  
 * [原作者权力说明](https://liberxue.github.io/about?liberxue)  
