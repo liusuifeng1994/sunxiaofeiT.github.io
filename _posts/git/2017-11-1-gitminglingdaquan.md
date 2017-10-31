@@ -1,3 +1,17 @@
+---
+layout: blog
+istop: true
+front: true
+title: "Git 常用的一些命令"
+background-image: "../img/gitminglingdaquan-0.jpg"
+date: 2017-10-31 15:30:00
+category: Git
+tags:
+- Git
+- Git命令
+- 总结
+---
+
 # 查看、添加、提交、删除、找回，重置修改文件
 
 - git help <command> # 显示command的help
