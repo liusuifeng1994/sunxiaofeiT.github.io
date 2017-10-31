@@ -3,7 +3,7 @@ layout: blog
 istop: true
 front: true
 title: "谈谈前端框架 Angular 的组件"
-background-image: "../img/angular组件-0.jpg"
+background-image: "../img/angularzujian-0.jpg"
 date: 2017-10-31 15:30:00
 category: angular
 tags:
