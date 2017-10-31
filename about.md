@@ -33,6 +33,6 @@ redirect_from:
 
 # 说明
 
-* [Jekyll 模板来源] (http://jekyllthemes.org/)  
-* [github 地址] (https://github.com/Liberxue/liberxue.github.io)  
-* [原作者权力说明] (https://liberxue.github.io/about?liberxue)  
+* [Jekyll 模板来源](http://jekyllthemes.org/)  
+* [github 地址](https://github.com/Liberxue/liberxue.github.io)  
+* [原作者权力说明](https://liberxue.github.io/about?liberxue)  
