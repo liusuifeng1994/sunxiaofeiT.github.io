@@ -2,6 +2,7 @@
 layout: blog
 title: 关于此博客
 description: ""
+date: 2017-10-31
 tags: 
 - sunxiaofeiT
 - 简述
@@ -18,9 +19,9 @@ redirect_from:
   另一方面，也是作一个备忘。
 
 # 关于我
-  xunxiaofei/孙小飞
-  天津大学，软件工程，一差生
-  课余喜欢研究视频制作相关内容
+  xunxiaofei/孙小飞  
+  天津大学，软件工程，一差生    
+  课余喜欢研究视频制作相关内容  
  
 # 联系方式
  
@@ -32,6 +33,6 @@ redirect_from:
 
 # 说明
 
-[Jekyll 模板来源] (http://jekyllthemes.org/)
-[github 地址] (https://github.com/Liberxue/liberxue.github.io)
-[原作者权力说明] (https://liberxue.github.io/about?liberxue)
+* [Jekyll 模板来源] (http://jekyllthemes.org/)  
+* [github 地址] (https://github.com/Liberxue/liberxue.github.io)  
+* [原作者权力说明] (https://liberxue.github.io/about?liberxue)  
