@@ -2,8 +2,8 @@
 layout: blog
 istop: true
 code: true
-title: "操作系统xv6学习笔记-CPU alarm 作业"
-background-image: "../img/gitminglingdaquan-0.jpg"
+title: "操作系统xv6学习笔记-homework xv6 CPU alarm"
+background-image: "../img/2017-11-01.jpg"
 date: 2017-11-01 23:30:00
 category: xv6
 tags:
@@ -11,6 +11,7 @@ tags:
 - 操作系统
 - homework
 - 作业完成
+- xv6 CPU alarm
 ---
 
 # 操作系统作业 os03
