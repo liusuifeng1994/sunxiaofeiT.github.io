@@ -42,3 +42,17 @@ tags:
 使用一下命令就可以同时推送到两个仓库了：
 
 > git push both
+
+## 删除新建的库
+
+我们可以使用下列命令来删除新建的库：
+
+> git remote remove remoteName
+
+将remoteName 改为要删除的库名
+
+可以使用：
+
+> git remote -v
+
+来查看当前目录下的所有库名。
