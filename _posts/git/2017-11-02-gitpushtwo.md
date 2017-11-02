@@ -4,7 +4,7 @@ istop: true
 front: true
 title: "Git 如何同时向两个仓库push代码"
 background-image: "../img/2017-11-02.jpg"
-date: 2017-10-31 15:30:00
+date: 2017-11-02 10:30:00
 category: Git
 tags:
 - Git
