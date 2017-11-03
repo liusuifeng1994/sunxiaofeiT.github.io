@@ -1,7 +1,7 @@
 # 博客模板
-采用 liberxue 
-地址： https://liberxue.github.io/
-由 `Jekyll Themes` 驱动
+采用 liberxue  
+地址： https://liberxue.github.io/  
+由 `Jekyll Themes` 驱动  
 ----------
 
 # 特点
