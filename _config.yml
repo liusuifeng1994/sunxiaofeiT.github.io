@@ -17,6 +17,9 @@ links:
   - name:         前端
     url:          /front
     external:     false
+  - name:         CODE
+    url:          /code
+    external:     false
   - name:         视频
     url:          /video
     external:     false
