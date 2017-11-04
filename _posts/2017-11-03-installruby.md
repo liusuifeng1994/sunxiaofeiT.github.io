@@ -84,3 +84,15 @@ tags:
 > gem install jekyll-feed
 
 同样，提示权限不够的话，使用sudo权限执行。
+
+## 出错解决
+
+我clone 了别人一个模板，想自己改动以下，却发现运行时，报错：
+
+![img](/img/2017-11-03/serve-wrong.png)
+
+应该是缺少需要的包，使用下列命令安装：
+
+> sudo bundle install
+
+会自动安装需要的包。
